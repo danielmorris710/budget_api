@@ -51,7 +51,7 @@ $ nodemon
 $ http://localhost:3001/seed
 
 ```
-* Lastly, open a browser window, and navigate to http://localhost:3001
+* Lastly, open a browser window, and navigate to http://localhost:3001/bills
 
 You're all set to run Bill Manager App API on your machine. You will see bills on the main page. You can delete these, and create your own either in the JSON file or using any front end framework. Have fun with it... 
 
