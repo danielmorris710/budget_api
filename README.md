@@ -2,7 +2,7 @@
 
  I created this API with sample data and RESTful routes for use with an external front-end application. My goal is to combine the two for a fullstack application.
 
- You can access the deployed API [here]() . Please bear in mind that it may take a few moments to load the data because it is deployed to Heroku and may be hibernating.
+ You can access the deployed API [here](https://dam-bill-manager-app.herokuapp.com/) . Please bear in mind that it may take a few moments to load the data because it is deployed to Heroku and may be hibernating.
 
 --------------------------------------------
 ## User Stories
@@ -62,7 +62,7 @@ My original goal for Bill Manager App API was to make this a fullstack applicati
 
 I decided to use Node, Express, and Mongoose because I was already familiar with them. I like the ease of use in creating RESTful routes with Express. I also like the ease of creating simple data models with Mongoose, and I want to explore creating more complex models.
 
-I decided to build a frontend application with React, which you can view [here]().
+I decided to build a frontend application with React, which you can view [here](https://github.com/danielmorris710/budget_app).
 
 
 --------------------------------------------
